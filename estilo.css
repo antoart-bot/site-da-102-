@@ -59,12 +59,14 @@
    cursor: pointer;
    outline: none;
    border-radius: black;
-   transition: backgroud-color 0.3  ease;
-   border-top-left-radius:5px;
-   border-top-right-radius:5px;
+   transition: backgroud-color 0.1  ease;
+   border-top-left-radius:10px;
+   border-top-right-radius:10px;
    margin-right:2px;
    font-size: 25px;
-   background-color: rgb(166, 218, 166)
+   background-color: rgb(166, 218, 166);
+    display: inline-block;
+  transition: transform 0.3s ease;
 }
 
 
@@ -74,13 +76,60 @@
    cursor: pointer;
    outline: none;
    transition: backgroud-color 0.3  ease;
-   border-top-left-radius:5px;
-   border-top-right-radius:5px;
+   border-top-left-radius:10px;
+   border-top-right-radius:10px;
    margin-right:2px;
    font-size: 25px;
-   background-color: rgb(183, 183, 219)
+   background-color: rgb(164, 164, 231);
+   display: flex;
+   width: 230px;
+    display: inline-block;
+  transition: transform 0.3s ease;
 }
 
+.bota1:hover{
+width: px;
+   float:  20px left;
+   transform: scale(0.9); /* Aumenta o tamanho do link em 10% */
+
+}
+
+.bota2:hover{
+width: px;
+float:  20px left;
+transform: scale(0.9); /* Aumenta o tamanho do link em 10% */
+}
+
+.bota3:hover{
+    width: px;
+    float:  20px left;
+    transform: scale(0.9); /* Aumenta o tamanho do link em 10% */
+}
+
+.horario:hover{
+    width: px;
+    float:  20px left;
+    transform: scale(0.9); /* Aumenta o tamanho do link em 10% */
+}
+
+.botesvoltar:hover{
+    width: px;
+float:  20px left;
+transform: scale(0.9); /* Aumenta o tamanho do link em 10% */
+}
+
+.botesvoltar2:hover{
+    width: px;
+   float:  20px left;
+   transform: scale(0.9); /* Aumenta o tamanho do link em 10% */
+}
+
+.Fotos:hover{
+    width:px;
+       float:  20px left;
+       transform: scale(0.9); /* Aumenta o tamanho do link em 10% */
+
+}
 
 .bota3{
      padding:5px 15px;
@@ -88,24 +137,28 @@
    cursor: pointer;
    outline: none;
    transition: backgroud-color 0.3  ease;
-   border-top-left-radius:5px;
-   border-top-right-radius:5px;
+   border-top-left-radius:10px;
+   border-top-right-radius:10px;
    margin-right:2px;
    font-size: 25px;
-   background-color: rgb(223, 223, 168)
+   background-color: rgb(223, 223, 168);
+    display: inline-block;
+  transition: transform 0.3s ease;
 }
 
 .horario{
-      padding:5px 15px;
+       padding:5px 15px;
    border-radius: black;
    cursor: pointer;
    outline: none;
    transition: backgroud-color 0.3  ease;
-   border-top-left-radius:5px;
-   border-top-right-radius:5px;
+   border-top-left-radius:10px;
+   border-top-right-radius:10px;
    margin-right:2px;
    font-size: 25px;
-   background-color: rgb(223, 170, 223);
+   background-color: rgb(231, 171, 204);
+    display: inline-block;
+  transition: transform 0.3s ease;
 }
 
 .letras{
@@ -145,11 +198,13 @@
    cursor: pointer;
    outline: none;
    transition: backgroud-color 0.3  ease;
-   border-top-left-radius:5px;
-   border-top-right-radius:5px;
+   border-top-left-radius:10px;
+   border-top-right-radius:10px;
    margin-right:2px;
    font-size: 20px;
-   background-color: rgb(224, 143, 143)
+   background-color: rgb(224, 143, 143);
+   display: inline-block;
+  transition: transform 0.3s ease;
    
 }
 
@@ -163,12 +218,14 @@
    cursor: pointer;
    outline: none;
    transition: backgroud-color 0.3  ease;
-   border-top-left-radius:5px;
-   border-top-right-radius:5px;
+   border-top-left-radius:10px;
+   border-top-right-radius:10px;
    margin-right:-3px;
    font-size: 15px;
    background-color: rgb(218, 172, 219);
    margin-top: 10px;
+    display: inline-block;
+  transition: transform 0.3s ease;
     
 }
 
@@ -178,12 +235,14 @@
    cursor: pointer;
    outline: none;
    transition: backgroud-color 0.3  ease;
-   border-top-left-radius:5px;
-   border-top-right-radius:5px;
+   border-top-left-radius:10px;
+   border-top-right-radius:10px;
    margin-right:-3px;
    font-size: 15px;
    background-color: rgb(136, 224, 220);
    margin-top: 10px;
+    display: inline-block;
+  transition: transform 0.3s ease;
 }
 
 .Fotos{
@@ -192,11 +251,14 @@
    cursor: pointer;
    outline: none;
    transition: backgroud-color 0.3  ease;
-   border-top-left-radius:5px;
-   border-top-right-radius:5px;
+   border-top-left-radius:10px;
+   border-top-right-radius:10px;
    margin-right:2px;
-   font-size: 25px;
+   font-size: 30px;
    background-color: rgb(231, 149, 111);
+      width: 230px;
+       display: inline-block;
+  transition: transform 0.3s ease;
 }
 
 .imge1{
@@ -220,3 +282,26 @@
     
 }
 
+
+.imge4{
+    width: 400px;
+    border: 2px solid black;
+    margin-top: -30px;
+    
+   
+}
+    
+
+.tabs{
+  width: 230px; /* Largura da barra lateral */
+  float: left; /* Flutua a barra lateral para a esquerda */
+  padding-right: -30px; /* Espaçamento à direita */
+
+}
+
+.paragrafos4{
+     font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+    
+}
