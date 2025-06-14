@@ -1,0 +1,222 @@
+.fundoprincipal{
+    background-image: url(imagns/projeto\ da\ 102\ .jpg);
+}
+
+.fundofotos{
+    background-color: beige;
+}
+
+
+
+.datas{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.AV{
+    font-weight: 600;
+}
+
+.Av1{
+    margin-left: 1400px;
+    margin-top: -43px;
+}
+
+
+.paragrafos{
+    font-size: 25px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 50px;
+
+}
+
+.paragrafos1  {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 1400px;
+    margin-top: -50px;
+    
+}
+
+
+.paragrafos2{
+       font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 50px;
+        font-weight: 700;
+
+}
+
+.botoes{
+    color: red;
+}
+
+
+
+.bota1{
+   padding:5px 15px;
+
+   cursor: pointer;
+   outline: none;
+   border-radius: black;
+   transition: backgroud-color 0.3  ease;
+   border-top-left-radius:5px;
+   border-top-right-radius:5px;
+   margin-right:2px;
+   font-size: 25px;
+   background-color: rgb(166, 218, 166)
+}
+
+
+.bota2{
+   padding:5px 15px;
+   border-radius: black;
+   cursor: pointer;
+   outline: none;
+   transition: backgroud-color 0.3  ease;
+   border-top-left-radius:5px;
+   border-top-right-radius:5px;
+   margin-right:2px;
+   font-size: 25px;
+   background-color: rgb(183, 183, 219)
+}
+
+
+.bota3{
+     padding:5px 15px;
+   border-radius: black;
+   cursor: pointer;
+   outline: none;
+   transition: backgroud-color 0.3  ease;
+   border-top-left-radius:5px;
+   border-top-right-radius:5px;
+   margin-right:2px;
+   font-size: 25px;
+   background-color: rgb(223, 223, 168)
+}
+
+.horario{
+      padding:5px 15px;
+   border-radius: black;
+   cursor: pointer;
+   outline: none;
+   transition: backgroud-color 0.3  ease;
+   border-top-left-radius:5px;
+   border-top-right-radius:5px;
+   margin-right:2px;
+   font-size: 25px;
+   background-color: rgb(223, 170, 223);
+}
+
+.letras{
+    color:black
+}
+
+.seg{
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    margin-top: 40px;
+    
+}
+
+.terca{
+    margin-left: 400px;
+    margin-top: -46px;
+}
+
+.quarta{
+ margin-left: 800px;
+    margin-top: -48px;
+}
+
+.quinta{
+ margin-left: 1200px;
+    margin-top: -49px;
+}
+
+.sexta{
+ margin-left: 1600px;
+    margin-top:-49px;
+}
+
+.botesvoltar{
+     padding:5px 15px;
+   border-radius: black;
+   cursor: pointer;
+   outline: none;
+   transition: backgroud-color 0.3  ease;
+   border-top-left-radius:5px;
+   border-top-right-radius:5px;
+   margin-right:2px;
+   font-size: 20px;
+   background-color: rgb(224, 143, 143)
+   
+}
+
+.fundo5{
+    background-color: white;
+}
+
+.botesvoltar1{
+         padding:5px 15px;
+   border-radius: black;
+   cursor: pointer;
+   outline: none;
+   transition: backgroud-color 0.3  ease;
+   border-top-left-radius:5px;
+   border-top-right-radius:5px;
+   margin-right:-3px;
+   font-size: 15px;
+   background-color: rgb(218, 172, 219);
+   margin-top: 10px;
+    
+}
+
+.botesvoltar2{
+             padding:5px 15px;
+   border-radius: black;
+   cursor: pointer;
+   outline: none;
+   transition: backgroud-color 0.3  ease;
+   border-top-left-radius:5px;
+   border-top-right-radius:5px;
+   margin-right:-3px;
+   font-size: 15px;
+   background-color: rgb(136, 224, 220);
+   margin-top: 10px;
+}
+
+.Fotos{
+          padding:5px 15px;
+   border-radius: black;
+   cursor: pointer;
+   outline: none;
+   transition: backgroud-color 0.3  ease;
+   border-top-left-radius:5px;
+   border-top-right-radius:5px;
+   margin-right:2px;
+   font-size: 25px;
+   background-color: rgb(231, 149, 111);
+}
+
+.imge1{
+    width: 400px;
+    border: 2px solid black;
+    
+   
+}
+
+.imge2{
+    width: 400px;
+    border: 2px solid black;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.imge3{
+    width: 300px;
+    border: 2px solid black;
+    margin-left: 30px;
+    
+}
+
