@@ -1,16 +1,20 @@
 .fundoprincipal{
-    background-image: url(imagns/projeto\ da\ 102\ .jpg);
-}
-
-.fundofotos{
     background-color: beige;
 }
+
+.fundoprincipal3{
+    background-image: url(imagns/qa.jpg);
+}
+
 
 
 
 .datas{
-    font-family: 'Times New Roman', Times, serif;
+    font-family:Arial, Helvetica, sans-serif;
     font-size: 30px;
+    font-weight: 800;
+    font-style: inherit;
+
 }
 
 .AV{
@@ -25,14 +29,13 @@
 
 .paragrafos{
     font-size: 25px;
-        font-family: Arial, Helvetica, sans-serif;
+        font-family: Bradley Hand, cursive;
         margin-top: 50px;
-
 }
 
 .paragrafos1  {
     font-size: 25px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Bradley Hand, cursive;
     margin-left: 1400px;
     margin-top: -50px;
     
@@ -41,11 +44,69 @@
 
 .paragrafos2{
        font-size: 20px;
-        font-family: Arial, Helvetica, sans-serif;
+       font-family: Bradley Hand, cursive;
         margin-top: 50px;
         font-weight: 700;
 
 }
+
+.paragrafos5{
+       font-size: 15px;
+       font-family: Bradley Hand, cursive;
+        margin-top: 5px;
+        font-weight: 600;
+        color:rgb(224, 11, 11);
+
+}
+
+.paragrafos6{
+
+    margin-left: 400px;
+         font-size: 15px;
+       font-family: Bradley Hand, cursive;
+        margin-top: 5px;
+        font-weight: 600;
+        color:rgb(224, 11, 11);
+
+}
+
+    
+.paragrafos7{
+
+    margin-left: 800px;
+         font-size: 15px;
+       font-family: Bradley Hand, cursive;
+        margin-top: 5px;
+        font-weight: 600;
+        color:rgb(224, 11, 11);
+
+}
+
+
+.paragrafos8{
+
+    margin-left: 1200px;
+         font-size: 15px;
+       font-family: Bradley Hand, cursive;
+        margin-top: 5px;
+        font-weight: 600;
+        color:rgb(224, 11, 11);
+
+}
+
+
+.paragrafos9{
+
+    margin-left: 1600px;
+         font-size: 15px;
+       font-family: Bradley Hand, cursive;
+        margin-top: 5px;
+        font-weight: 600;
+        color:rgb(224, 11, 11);
+
+}
+
+
 
 .botoes{
     color: red;
@@ -63,7 +124,7 @@
    border-top-left-radius:10px;
    border-top-right-radius:10px;
    margin-right:2px;
-   font-size: 25px;
+   font-size: 20px;
    background-color: rgb(166, 218, 166);
     display: inline-block;
   transition: transform 0.3s ease;
@@ -79,7 +140,7 @@
    border-top-left-radius:10px;
    border-top-right-radius:10px;
    margin-right:2px;
-   font-size: 25px;
+   font-size: 20px;
    background-color: rgb(164, 164, 231);
    display: flex;
    width: 230px;
@@ -131,6 +192,18 @@ transform: scale(0.9); /* Aumenta o tamanho do link em 10% */
 
 }
 
+.atividades:hover{
+        width: px;
+   float:  20px left;
+   transform: scale(0.9); /* Aumenta o tamanho do link em 10% */
+}
+
+.botesvoltar1:hover{
+           width: px;
+   float:  20px left;
+   transform: scale(0.9); /* Aumenta o tamanho do link em 10% */
+}
+
 .bota3{
      padding:5px 15px;
    border-radius: black;
@@ -140,7 +213,7 @@ transform: scale(0.9); /* Aumenta o tamanho do link em 10% */
    border-top-left-radius:10px;
    border-top-right-radius:10px;
    margin-right:2px;
-   font-size: 25px;
+   font-size: 20px;
    background-color: rgb(223, 223, 168);
     display: inline-block;
   transition: transform 0.3s ease;
@@ -155,41 +228,44 @@ transform: scale(0.9); /* Aumenta o tamanho do link em 10% */
    border-top-left-radius:10px;
    border-top-right-radius:10px;
    margin-right:2px;
-   font-size: 25px;
+   font-size: 20px;
    background-color: rgb(231, 171, 204);
     display: inline-block;
   transition: transform 0.3s ease;
 }
 
 .letras{
-    color:black
+    color:black;
+    font-family:Bradley Hand, cursive;
 }
 
 .seg{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
     color:black;
     margin-top: 40px;
     
 }
 
-.terca{
+.terqa{
     margin-left: 400px;
-    margin-top: -46px;
+     font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    margin-top: -320px;
 }
 
 .quarta{
  margin-left: 800px;
-    margin-top: -48px;
+    margin-top: -275px;
 }
 
 .quinta{
  margin-left: 1200px;
-    margin-top: -49px;
+    margin-top: -275px;
 }
 
 .sexta{
  margin-left: 1600px;
-    margin-top:-49px;
+    margin-top:-275px;
 }
 
 .botesvoltar{
@@ -201,10 +277,11 @@ transform: scale(0.9); /* Aumenta o tamanho do link em 10% */
    border-top-left-radius:10px;
    border-top-right-radius:10px;
    margin-right:2px;
-   font-size: 20px;
+   font-size: 15px;
    background-color: rgb(224, 143, 143);
    display: inline-block;
   transition: transform 0.3s ease;
+  margin-top: 40px;
    
 }
 
@@ -221,7 +298,7 @@ transform: scale(0.9); /* Aumenta o tamanho do link em 10% */
    border-top-left-radius:10px;
    border-top-right-radius:10px;
    margin-right:-3px;
-   font-size: 15px;
+   font-size: 10px;
    background-color: rgb(218, 172, 219);
    margin-top: 10px;
     display: inline-block;
@@ -238,7 +315,7 @@ transform: scale(0.9); /* Aumenta o tamanho do link em 10% */
    border-top-left-radius:10px;
    border-top-right-radius:10px;
    margin-right:-3px;
-   font-size: 15px;
+   font-size: 10px;
    background-color: rgb(136, 224, 220);
    margin-top: 10px;
     display: inline-block;
@@ -254,11 +331,27 @@ transform: scale(0.9); /* Aumenta o tamanho do link em 10% */
    border-top-left-radius:10px;
    border-top-right-radius:10px;
    margin-right:2px;
-   font-size: 30px;
-   background-color: rgb(231, 149, 111);
+   font-size: 25px;
       width: 230px;
+      background-color: rgb(230, 154, 154);
        display: inline-block;
   transition: transform 0.3s ease;
+}
+
+.atividades{
+    padding:5px 15px;
+   border-radius: black;
+   cursor: pointer;
+   outline: none;
+   transition: backgroud-color 0.3  ease;
+   border-top-left-radius:10px;
+   border-top-right-radius:10px;
+   margin-right:2px;
+   font-size: 20px;
+   background-color: rgb(133, 221, 224);
+    display: inline-block;
+  transition: transform 0.3s ease;
+  width: 230px;
 }
 
 .imge1{
@@ -289,6 +382,11 @@ transform: scale(0.9); /* Aumenta o tamanho do link em 10% */
     margin-top: -30px;
     
    
+}
+
+.img5{
+    width: 100px;
+    margin-left: 1500px;
 }
     
 
